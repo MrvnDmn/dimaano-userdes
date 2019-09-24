@@ -68,17 +68,17 @@
 		  September 23, 2019
 	  </h1>
 	  <br>
-	  <img src="cert1.png"/>
+	  <img src="cert1.PNG"/>
 	  <br><br><br>
 	  <h1>UX Foundations: Prototyping <br>
 		  September 23, 2019</h1>
 	  <br>
-	  <img src="cert2.png"/>
+	  <img src="cert2.PNG"/>
 	  <br><br><br>
 	  <h1>UX Design: 1 Overview<br>
 		  September 23, 2019</h1>
 	  <br>
-	  <img src = "cert3.png"/>
+	  <img src = "cert3.PNG"/>
       </div>
     </div>
   </div>
@@ -97,17 +97,17 @@
 		  March 18, 2019
 	  </h1>
 	  <br>
-	  <img src="cert4.png"/>
+	  <img src="cert4.PNG"/>
 	  <br><br><br>
 	  <h1>Java: Generic Classes <br>
 		  February 28, 2018</h1>
 	  <br>
-	  <img src="cert6.png"/>
+	  <img src="cert6.PNG"/>
 	  <br><br><br>
 	  <h1>Java Essential Training: Objects and APIs<br>
 		  April 12, 2018</h1>
 	  <br>
-	  <img src = "cert5.png"/>
+	  <img src = "cert5.PNG"/>
       </div>
     </div>
   </div>
