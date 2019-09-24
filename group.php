@@ -132,12 +132,12 @@ Solutions:<br>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
 	  <ol>
-		<li><img src="pers1.png"/></li>
-		<li><img src="pers1_1.png"/></li>
-		<li><img src="pers2.png"/></li>
-		<li><img src="pers2_2.png"/></li>
-		<li><img src="pers3.png"/></li>
-		<li><img src="pers3_3.png"/></li>
+		<li><img src="pers1.PNG"/></li>
+		<li><img src="pers1_1.PNG"/></li>
+		<li><img src="pers2.PNG"/></li>
+		<li><img src="pers2_2.PNG"/></li>
+		<li><img src="pers3.PNG"/></li>
+		<li><img src="pers3_3.PNG"/></li>
 	  </ol>
       </div>
     </div>
